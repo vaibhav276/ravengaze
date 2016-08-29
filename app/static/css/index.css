@@ -1,0 +1,12 @@
+#fullPageCanvas {
+   position:absolute;
+   width: 100%;
+   height: 100%;
+   border: 1px solid red;
+}
+
+#coordinatesDiv {
+   position: absolute;
+   width: 200;
+   height: 50;
+}
